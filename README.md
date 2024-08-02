@@ -2,6 +2,10 @@ Here’s an outline of how to write the initial steps of your project in the `RE
 
 ---
 
+** Các code bên dưới chỉ là code ví dụ **
+<br>
+** Không đưa code này vào project **
+
 # Student Information Management System (SIMS)
 
 ## Project Overview
@@ -60,15 +64,15 @@ The **Student Information Management System (SIMS)** is an ASP.NET web applicati
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-repo/sims.git
-cd sims
+git clone https://github.com/ngoloc2k4/Project_ASP_WEB_SIMS
+cd Project_ASP_WEB_SIMS
 ```
 
 ### Setting Up the Project
 
 1. **Open the Solution**:
 
-   - Open `SIMS.sln` in Visual Studio.
+   - Open `Project_ASP_WEB_SIMS.sln` in Visual Studio.
 
 2. **Database Configuration**:
 
@@ -368,6 +372,8 @@ In this step, you'll translate your system design into a functioning application
   - Create a DbContext class to handle database operations.
 
 #### 3.2 Develop Models
+
+##### Code này chỉ là code ví dụ. Không copy vào project.
 
 - **Create Model Classes:**
 
