@@ -8,16 +8,6 @@ Here’s an outline of how to write the initial steps of your project in the `RE
 
 The **Student Information Management System (SIMS)** is an ASP.NET web application designed to modernize the university's student information system. The system will improve efficiency, maintainability, and scalability while ensuring data security and accessibility. The project follows object-oriented principles, SOLID principles, clean coding practices, and incorporates multiple design patterns.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Functional Requirements](#functional-requirements)
-- [Non-Functional Requirements](#non-functional-requirements)
-- [Project Setup](#project-setup)
-- [Development Guidelines](#development-guidelines)
-- [Team](#team)
-- [License](#license)
-
 ## Functional Requirements
 
 1. **Student Registration**
