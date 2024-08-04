@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "F:\\Project_ASP_WEB_SIMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\project_asp_web_sims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:project_asp_web_sims.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\courseteachofteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\courseteachofteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\courselearningofstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\courselearningofstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\semester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|f:\\project_asp_web_sims\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C60E4C7-70DD-4EB9-838C-45886E3EEC96}|Project_ASP_WEB_SIMS.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +58,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\Program.cs",
+              "RelativeDocumentMoniker": "Models\\Program.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\Program.cs",
+              "RelativeToolTip": "Models\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:04:19.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Project_ASP_WEB_SIMS",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Project_ASP_WEB_SIMS.csproj",
+              "RelativeDocumentMoniker": "Project_ASP_WEB_SIMS.csproj",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Project_ASP_WEB_SIMS.csproj",
+              "RelativeToolTip": "Project_ASP_WEB_SIMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T17:30:29.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:30:46.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:29:17.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:09:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:35:50.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseTeachOfTeacher.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\CourseTeachOfTeacher.cs",
+              "RelativeDocumentMoniker": "Models\\CourseTeachOfTeacher.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\CourseTeachOfTeacher.cs",
+              "RelativeToolTip": "Models\\CourseTeachOfTeacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:16:04.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseLearningOfStudent.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\CourseLearningOfStudent.cs",
+              "RelativeDocumentMoniker": "Models\\CourseLearningOfStudent.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\CourseLearningOfStudent.cs",
+              "RelativeToolTip": "Models\\CourseLearningOfStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:15:23.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:13:34.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:08:49.464Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -18,6 +201,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:06:33.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Semester.cs",
+              "DocumentMoniker": "F:\\Project_ASP_WEB_SIMS\\Models\\Semester.cs",
+              "RelativeDocumentMoniker": "Models\\Semester.cs",
+              "ToolTip": "F:\\Project_ASP_WEB_SIMS\\Models\\Semester.cs",
+              "RelativeToolTip": "Models\\Semester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T17:02:34.871Z",
+              "EditorCaption": ""
             }
           ]
         }
